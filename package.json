@@ -1,0 +1,32 @@
+{
+  "name": "es6-basis-903",
+  "type": "commonjs",
+  "version": "1.0.0",
+  "description": "learning project for es6 sintax",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Daniela280313/es6-basis.git"
+  },
+  "keywords": [
+    "es6",
+    "arreglos",
+    "funciones"
+  ],
+  "author": "Daniela Rodriguez Espitia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Daniela280313/es6-basis/issues"
+  },
+  "homepage": "https://github.com/Daniela280313/es6-basis#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
